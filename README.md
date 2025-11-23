@@ -18,19 +18,31 @@ This project blends elegant UI, smooth animations, and a refreshing design philo
 
 ---
 
-## 📁 Project Structure  
+### 📁 Project Structure
+
+```txt
 chai/
-│── public/
-│ └── images/
-│ └── (tea, leaves, cups etc.)
+├── public/
+│   └── images/
+│       ├── tea.jpg
+│       ├── leaf.png
+│       ├── leaf2.png
+│       ├── tray.png
+│       └── cup.png
 │
-│── src/
-│ ├── components/
-│ ├── App.jsx
-│ ├── index.css
-│ └── main.jsx
+├── src/
+│   ├── components/
+│   │   ├── Hero.jsx
+│   │   └── Navbar.jsx
+│   ├── App.jsx
+│   ├── index.css
+│   └── main.jsx
 │
 └── README.md
+```
+
+
+
 
 ---
 
